@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ab3y/YCC/main/YCC_Logo.jpeg" alt="Yardley Crest Consulting" width="180">
+  <img src="https://github.com/Ab3y/YCC/blob/main/YCC_Logo.jpeg?raw=true" alt="Yardley Crest Consulting" width="180">
 </p>
 
 <h1 align="center">Yardley Crest Consulting</h1>
