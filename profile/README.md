@@ -23,5 +23,4 @@ Yardley Crest combines strategic clarity with operational rigor. Our engagements
 
 ## Connect with us
 
-- Explore the [Yardley Crest consulting platform](https://github.com/Ab3y/YCC)
 - Follow our work here on [GitHub](https://github.com/YCCLLC)
