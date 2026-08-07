@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/Ab3y/YCC/blob/main/YCC_Logo.jpeg?raw=true" alt="Yardley Crest Consulting" width="180">
+  <img src="https://github.com/Ab3y/YCC/blob/main/YCC_Logo.jpeg?raw=true" alt="Yardley Crest Solutions" width="180">
 </p>
 
-<h1 align="center">Yardley Crest Consulting</h1>
+<h1 align="center">Yardley Crest Solutions</h1>
 
 <p align="center">
   <strong>Strategy &middot; Architecture &middot; Impact</strong>
